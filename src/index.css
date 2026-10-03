@@ -56,6 +56,11 @@ body {
   gap: 8px;
 }
 
+.sort-toolbar {
+  margin-bottom: 16px;
+  align-items: center;
+}
+
 .toolbar select,
 .toolbar button {
   padding: 8px 12px;
