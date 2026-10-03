@@ -5,6 +5,7 @@
 // Потом покажите в App.jsx всю ленту вместо одной карточки.
 // Загляните в Console: React подскажет, если чего-то не хватает.
 
+
 import { useEffect, useState } from 'react';
 import { API_URL } from '../api.js';
 import MemeCard from './MemeCard.jsx';
